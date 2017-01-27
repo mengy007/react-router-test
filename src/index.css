@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.header {
+  background-color: #EEE;
+  border-bottom: 2px solid #27A;
+}
+
+.menu {
+  padding: 5px;
+  color: #FFF;
+  font-weight: bold;
+  background-color: #AAA;
+}
+
+.main-content {
+  padding: 10px;
+}
+
+.content {
+  border: 1px solid #AAA;
+  padding: 5px;
+  margin: 2px;
+}
+
+.footer {
+  padding: 2px;
+  border-top: 1px solid #777;
+  font-size: 12px;
+  color: #777;
+  text-align: center;
+}
